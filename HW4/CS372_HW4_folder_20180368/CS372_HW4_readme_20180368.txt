@@ -1,0 +1,13 @@
+chosen 5 actions
+
+activate
+inhibit
+bind
+induce
+prevent
+
+
+------
+
+You MUST execute the .py file in this folder(technically, the same folder with 'sentences' file)
+Thanks.
